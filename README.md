@@ -14,7 +14,7 @@ A web application that converts text prompts into animated videos using Manim an
 
 - Python 3.8+
 - Manim (with required dependencies)
-- Google Gemini API key
+- Google Gemini API key -> replace api with your api key
 
 ## Installation
 
@@ -74,5 +74,4 @@ PromptToVideo/
 6. The result is displayed in the web interface
 
 ## License
-
 MIT License
